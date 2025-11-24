@@ -54,7 +54,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-10.png)
+<img width="523" height="311" alt="image" src="https://github.com/user-attachments/assets/f9445aa4-a2f5-41a4-a424-6421b307a167" />
+
 
 ### Result:
 Thus, the program to display stack elements using an array is verified successfully.
@@ -110,7 +111,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-11.png)
+<img width="495" height="233" alt="image" src="https://github.com/user-attachments/assets/19c048b4-c43e-4d06-9d2a-cb508c9c9eee" />
+
 
 ### Result:
 Thus, the program to push the given element in to a stack using array is verified successfully.
@@ -175,7 +177,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-12.png)
+<img width="496" height="230" alt="image" src="https://github.com/user-attachments/assets/226e6481-6688-4d83-8a90-8dbfef302cb4" />
+
 
 ### Result:
 Thus, the program to display queue elements using array is verified successfully.
@@ -236,7 +239,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-13.png)
+<img width="489" height="318" alt="image" src="https://github.com/user-attachments/assets/f30a4e83-c35b-4813-8f1e-485b3ba79f41" />
+
 
 ### Result:
 Thus, the program to insert elements in queue using array is verified successfully.
@@ -322,7 +326,8 @@ int main() {
 ```
 
 ### Output:
-![alt text](imgs/image-14.png)
+<img width="511" height="346" alt="image" src="https://github.com/user-attachments/assets/f1f83ec1-2337-449b-b763-48a826b98101" />
+
 
 ### Result:
 Thus, the function that deletes an element from a queue implemented using an array is verified successfully.
